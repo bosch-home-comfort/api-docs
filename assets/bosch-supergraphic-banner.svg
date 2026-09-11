@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="6" viewBox="0 0 720 6" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="supergraphic" x1="0" x2="1">
+      <stop offset="0" stop-color="#952331"/>
+      <stop offset=".036" stop-color="#921c1d"/>
+      <stop offset=".085" stop-color="#b02739"/>
+      <stop offset=".124" stop-color="#ad1f24"/>
+      <stop offset=".151" stop-color="#c72026"/>
+      <stop offset=".17" stop-color="#d42027"/>
+      <stop offset=".176" stop-color="#cc2431"/>
+      <stop offset=".189" stop-color="#b72b4c"/>
+      <stop offset=".207" stop-color="#953371"/>
+      <stop offset=".214" stop-color="#88357f"/>
+      <stop offset=".244" stop-color="#853681"/>
+      <stop offset=".264" stop-color="#6f368b"/>
+      <stop offset=".291" stop-color="#39428f"/>
+      <stop offset=".324" stop-color="#233d7d"/>
+      <stop offset=".418" stop-color="#322c6f"/>
+      <stop offset=".494" stop-color="#2a3885"/>
+      <stop offset=".558" stop-color="#1d62a1"/>
+      <stop offset=".57" stop-color="#276ca5"/>
+      <stop offset=".61" stop-color="#438eb3"/>
+      <stop offset=".64" stop-color="#55a5bc"/>
+      <stop offset=".656" stop-color="#5cafbf"/>
+      <stop offset=".678" stop-color="#56abbd"/>
+      <stop offset=".706" stop-color="#439fb8"/>
+      <stop offset=".737" stop-color="#188eaf"/>
+      <stop offset=".743" stop-color="#038bae"/>
+      <stop offset=".79" stop-color="#069292"/>
+      <stop offset=".887" stop-color="#05a14b"/>
+      <stop offset="1" stop-color="#03927e"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="6" fill="url(#supergraphic)"/>
+</svg>

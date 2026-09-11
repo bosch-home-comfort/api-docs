@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="BOSCH_SUPERGRAPHIC_A3_4C" xmlns="http://www.w3.org/2000/svg" width="1300" height="550.954" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1300 550.954">
+  <!-- Generator: Adobe Illustrator 30.7.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 114)  -->
+  <defs>
+    <linearGradient id="Unbenannter_Verlauf_2" data-name="Unbenannter Verlauf 2" x1="370.575" y1="421.216" x2="210.291" y2="421.216" gradientTransform="translate(0 -8)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#88357f"/>
+      <stop offset=".335" stop-color="#88357f"/>
+      <stop offset=".6" stop-color="#8b2e64"/>
+      <stop offset=".871" stop-color="#8e284a"/>
+      <stop offset="1" stop-color="#8f2540"/>
+      <stop offset="1" stop-color="#8f2540"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_3" data-name="Unbenannter Verlauf 3" x1="647.054" y1="8.538" x2="588.825" y2="372.653" gradientTransform="translate(0 -8)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#312a6f"/>
+      <stop offset=".243" stop-color="#312a6f"/>
+      <stop offset=".418" stop-color="#2f2d72"/>
+      <stop offset=".624" stop-color="#2b337a"/>
+      <stop offset=".846" stop-color="#1e3e87"/>
+      <stop offset="1" stop-color="#024995"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_4" data-name="Unbenannter Verlauf 4" x1="314.769" y1="283.477" x2="456.407" y2="283.477" gradientTransform="translate(0 -8)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6e368c"/>
+      <stop offset="1" stop-color="#3a4190"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_5" data-name="Unbenannter Verlauf 5" x1="562.507" y1="283.477" x2="370.575" y2="283.477" gradientTransform="translate(0 -8)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#14387f"/>
+      <stop offset=".231" stop-color="#1d3880"/>
+      <stop offset=".504" stop-color="#313881"/>
+      <stop offset=".798" stop-color="#493984"/>
+      <stop offset="1" stop-color="#5c3986"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_6" data-name="Unbenannter Verlauf 6" x1="377.743" y1="145.74" x2="204.35" y2="145.74" gradientTransform="translate(0 -8)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#88357f"/>
+      <stop offset=".335" stop-color="#88357f"/>
+      <stop offset=".6" stop-color="#8b2e64"/>
+      <stop offset=".871" stop-color="#8e284a"/>
+      <stop offset="1" stop-color="#8f2540"/>
+      <stop offset="1" stop-color="#8f2540"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_7" data-name="Unbenannter Verlauf 7" x1="1132.595" y1="8" x2="1132.595" y2="558.95" gradientTransform="translate(0 -8)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#94bd55"/>
+      <stop offset=".333" stop-color="#8cbc68"/>
+      <stop offset=".689" stop-color="#85bb74"/>
+      <stop offset="1" stop-color="#83bb78"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_8" data-name="Unbenannter Verlauf 8" x1="961.37" y1="13.852" x2="1104.704" y2="556.347" gradientTransform="translate(0 -8)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00a24c"/>
+      <stop offset=".198" stop-color="#00a150"/>
+      <stop offset=".479" stop-color="#009d5c"/>
+      <stop offset=".805" stop-color="#009770"/>
+      <stop offset="1" stop-color="#00937d"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_9" data-name="Unbenannter Verlauf 9" x1="1247.435" y1="8.001" x2="1247.435" y2="558.952" gradientTransform="translate(0 -8)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#699f60"/>
+      <stop offset=".096" stop-color="#5a9955"/>
+      <stop offset=".265" stop-color="#449148"/>
+      <stop offset=".452" stop-color="#318c40"/>
+      <stop offset=".672" stop-color="#23893b"/>
+      <stop offset="1" stop-color="#1d893a"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_10" data-name="Unbenannter Verlauf 10" x1="959.163" y1="8.001" x2="959.163" y2="558.952" gradientTransform="translate(0 -8)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00b5dd"/>
+      <stop offset=".224" stop-color="#00b0d8"/>
+      <stop offset=".548" stop-color="#00a3c9"/>
+      <stop offset=".931" stop-color="#008fb3"/>
+      <stop offset="1" stop-color="#008bae"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_11" data-name="Unbenannter Verlauf 11" x1="1136.385" y1="232.522" x2="1218.487" y2="86.059" gradientTransform="translate(0 -8)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#62b16e"/>
+      <stop offset="1" stop-color="#86b857"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_12" data-name="Unbenannter Verlauf 12" x1="775.5" y1="20.271" x2="921.436" y2="564.912" gradientTransform="translate(0 -8)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#009ad2"/>
+      <stop offset=".379" stop-color="#19a1cd"/>
+      <stop offset="1" stop-color="#5bb0c0"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_13" data-name="Unbenannter Verlauf 13" x1="694.551" y1="8.001" x2="694.551" y2="558.952" gradientTransform="translate(0 -8)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#174290"/>
+      <stop offset=".265" stop-color="#1c4d98"/>
+      <stop offset=".802" stop-color="#2a6daf"/>
+      <stop offset="1" stop-color="#327ab9"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_14" data-name="Unbenannter Verlauf 14" x1="783.65" y1="558.952" x2="783.65" y2="8.001" gradientTransform="translate(0 -8)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3e9ac9"/>
+      <stop offset="1" stop-color="#1d61a1"/>
+    </linearGradient>
+  </defs>
+  <polygon points="210.291 550.952 370.575 550.952 314.769 275.479 210.291 550.952" style="fill: url(#Unbenannter_Verlauf_2);"/>
+  <polygon points="643.698 .001 562.507 .001 518.42 275.479 558.542 550.952 643.698 550.952 643.698 .001" style="fill: url(#Unbenannter_Verlauf_3);"/>
+  <polygon points="376.519 .001 376.46 .001 314.769 275.479 370.575 550.952 456.407 275.479 376.519 .001" style="fill: url(#Unbenannter_Verlauf_4);"/>
+  <polygon points="562.507 .001 376.519 .001 456.407 275.479 370.575 550.952 558.542 550.952 518.42 275.479 562.507 .001" style="fill: url(#Unbenannter_Verlauf_5);"/>
+  <polygon points="208.692 .001 100.019 .001 100.019 170.518 161.584 275.479 100.019 380.44 100.019 550.952 210.291 550.952 171.039 275.479 208.692 .001" style="fill: #af1917;"/>
+  <polygon points="376.46 .001 208.692 .001 314.769 275.479 376.46 .001" style="fill: url(#Unbenannter_Verlauf_6);"/>
+  <polygon points="100.019 .001 0 .001 100.019 170.518 100.019 .001" style="fill: #931813;"/>
+  <polygon points="161.584 275.479 100.019 170.518 100.019 380.44 161.584 275.479" style="fill: #b12638;"/>
+  <polygon points="0 550.952 100.019 550.952 100.019 380.44 0 550.952" style="fill: #931813;"/>
+  <polygon points="100.019 170.518 0 .001 0 550.952 100.019 380.44 100.019 170.518" style="fill: #942331;"/>
+  <polygon points="208.692 .001 171.039 275.479 210.291 550.952 314.769 275.479 208.692 .001" style="fill: #d51317;"/>
+  <path d="M1153.453,466.694c3.146-45.624,18.03-98.224,33.784-153.919,2.517-8.906,5.08-17.959,7.633-27.144-2.557-9.868-5.118-19.605-7.641-29.183-15.75-59.865-30.636-116.4-33.779-165.44-2.438-38.07,2.544-66.549,16.055-91.008h-82.537c-13.508,32.851-18.495,52.288-16.05,90.358,3.141,49.035,18.03,105.573,33.779,165.435,23.34,88.675,50.35,190.901,41.677,295.157h23.172c-13.538-22.766-18.537-48.8-16.093-84.256h0Z" style="fill: url(#Unbenannter_Verlauf_7);"/>
+  <path d="M1104.696,255.795c-15.75-59.862-30.638-116.4-33.779-165.435-2.444-38.07,2.542-57.508,16.05-90.358h-63.731c10.184,96.975-6.793,191.879-24.457,299.847-10.312,62.998-20.977,128.132-23.739,180.931-1.99,37.968.657,58.907,3.21,70.174h168.123c8.673-104.258-18.337-206.485-41.677-295.159h0Z" style="fill: url(#Unbenannter_Verlauf_8);"/>
+  <path d="M1194.87,285.632c-2.553,9.184-5.116,18.238-7.633,27.144-15.754,55.695-30.638,108.295-33.784,153.919-2.444,35.456,2.555,61.489,16.091,84.258h59.335c7.742-93.002-12.898-183.848-34.009-265.321h0Z" style="fill: #169a39;"/>
+  <path d="M1223.501.001c19.203,99.489-4.408,198.521-28.631,285.631,21.111,81.474,41.751,172.319,34.01,265.32h71.12V.001h-76.499Z" style="fill: url(#Unbenannter_Verlauf_9);"/>
+  <path d="M975.04,480.779c2.762-52.799,13.427-117.933,23.739-180.931C1016.444,191.88,1033.42,96.976,1023.236.001h-127.325c-2.547,20.516-5.18,34.49-3.191,75.227,2.764,56.746,13.421,126.752,23.73,194.459,15.18,99.683,29.843,195.693,27.226,281.265h34.573c-2.552-11.267-5.199-32.205-3.209-70.173h0Z" style="fill: url(#Unbenannter_Verlauf_10);"/>
+  <polygon points="643.698 .001 643.698 550.952 675.504 275.479 643.698 .001" style="fill: #283587;"/>
+  <path d="M1153.449,91.009c3.144,49.04,18.03,105.574,33.779,165.44,2.523,9.578,5.084,19.315,7.641,29.183C1219.092,198.522,1242.703,99.49,1223.5.001h-53.997c-13.51,24.459-18.492,52.938-16.054,91.008h0Z" style="fill: url(#Unbenannter_Verlauf_11);"/>
+  <path d="M916.451,269.687c-10.309-67.707-20.966-137.713-23.73-194.459-1.99-40.738.644-54.712,3.191-75.227h-74.622c2.745,72.183-2.7,153.316-12.506,289.038-5.654,78.253-14.391,198.692-12.645,261.913h147.539c2.616-85.571-12.046-181.582-27.227-281.265Z" style="fill: url(#Unbenannter_Verlauf_12);"/>
+  <polygon points="643.698 .001 675.504 275.479 643.698 550.952 745.302 550.952 745.404 .001 643.698 .001" style="fill: url(#Unbenannter_Verlauf_13);"/>
+  <path d="M808.783,289.039C818.589,153.317,824.034,72.184,821.289.001h-75.885l-.102,550.951h50.837c-1.747-63.221,6.99-183.66,12.644-261.913h0Z" style="fill: url(#Unbenannter_Verlauf_14);"/>
+</svg>
